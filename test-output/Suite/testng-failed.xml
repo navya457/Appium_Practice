@@ -3,11 +3,11 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Test.Appium_Practice">
+      <class name="Test.Practice">
         <methods>
-          <include name="testing"/>
+          <include name="openCalculator"/>
         </methods>
-      </class> <!-- Test.Appium_Practice -->
+      </class> <!-- Test.Practice -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
